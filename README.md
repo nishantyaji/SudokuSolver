@@ -7,4 +7,6 @@ The implementation uses CSV module to read and process the CSV file input.
 The numpy module is used to play around with 2D and 3D arrays.
 
 
+Place the CSV in the same folder as the .py script and run the pyscript to obtain the solution in the console
+
 
